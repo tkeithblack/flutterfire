@@ -10,7 +10,10 @@ environment:
 dependencies:
   firebase_core: ^1.0.1
   firebase_core_web: ^1.0.1
-  firebase_messaging_platform_interface: ^2.0.0
+  # firebase_messaging_platform_interface: ^2.0.0
+  firebase_messaging_platform_interface: 
+    path: /Users/keithblack/GitHub/flutterfire/packages/firebase_messaging/firebase_messaging_platform_interface
+
   flutter:
     sdk: flutter
   flutter_web_plugins:
