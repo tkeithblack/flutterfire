@@ -1,3 +1,15 @@
+## 1.0.1
+
+ - Update a dependency to the latest release.
+
+## 1.0.0
+
+ - Graduate package to a stable release. See pre-releases prior to this version for changelog entries.
+
+## 1.0.0-1.0.nullsafety.0
+
+ - Bump "cloud_firestore" to `1.0.0-1.0.nullsafety.0`.
+
 ## 0.17.0-1.0.nullsafety.2
 
  - **FIX**: Fix type issue. (#5081).
